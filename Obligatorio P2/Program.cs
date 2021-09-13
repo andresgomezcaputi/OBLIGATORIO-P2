@@ -6,7 +6,8 @@ namespace Obligatorio_P2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Prueba para repositorio github");
+            
         }
     }
 }
